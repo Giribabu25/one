@@ -441,7 +441,7 @@
       <div class="product-image">
         <i class="fas fa-laptop"></i>
       </div>
-      <div class="product-title">ZenBook Air</div>
+      <div class="product-title">Elitebook HP</div>
       <div class="product-category">laptops</div>
       <div class="product-rating">
         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
