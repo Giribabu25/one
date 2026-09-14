@@ -1136,11 +1136,11 @@
 
             <nav class="main-nav" id="mainNav" aria-label="Main navigation">
                 <ul>
-                    <li><a href="#" class="active"><i class="fas fa-home"></i> Home</a></li>
-                    <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
-                    <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
-                    <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
+                    <li><a href="#" class="active"><em class="fas fa-home"></em> Home</a></li>
+                    <li><a href="#categories"><em class="fas fa-th-large"></em> Categories</a></li>
+                    <li><a href="#products"><em class="fas fa-fire"></em> Trending</a></li>
+                    <li><a href="#deals"><em class="fas fa-tag"></em> Deals</a></li>
+                    <li><a href="#testimonials"><em class="fas fa-star"></em> Reviews</a></li>
                 </ul>
             </nav>
 
